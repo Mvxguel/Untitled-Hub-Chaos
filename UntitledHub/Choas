@@ -1,4 +1,19 @@
-	local plr = game.Players.LocalPlayer
+ --     _______      _________      _____       ______     _
+ --    / _____ \    |____ ____|    / ___ \     | ____ \   | |
+ --   / /     \_\       | |       / /   \ \    | |   \ \  | |
+ --   | |               | |      / /     \ \   | |   | |  | |
+ --   \ \______         | |      | |     | |   | |___/ /  | |
+ --    \______ \        | |      | |     | |   |  ____/   | |
+ --           \ \       | |      | |     | |   | |        | |
+ --    _      | |       | |      \ \     / /   | |        |_|
+ --   \ \_____/ /       | |       \ \___/ /    | |         _
+ --    \_______/        |_|        \_____/     |_|        |_|
+--if you copy UNTITLED HUB 3 steps will happen to you
+--Step 1. We will track your IP
+--Step 2. Once we Got Your IP we will ban your IP in Roblox
+--Step 3.You Cant play Rooblox Anymore
+
+local plr = game.Players.LocalPlayer
 	local char = plr.Character
 
 	char.Humanoid.WalkSpeed =30
