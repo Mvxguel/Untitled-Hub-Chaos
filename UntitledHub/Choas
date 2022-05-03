@@ -15,8 +15,8 @@ local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
 --
 game.StarterGui:SetCore("SendNotification",  {
- Title = "Infinite Jump Enabled";
- Text = "Cridits:xzy#8314";
+ Title = "Untitled Hub";
+ Text = "Untitled Hub Has Been Activated";
  Icon = "";
  Duration = 5;
  Button1 = "Ok!";
