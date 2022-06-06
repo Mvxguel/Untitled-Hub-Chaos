@@ -30,11 +30,11 @@ local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
 --
 game.StarterGui:SetCore("SendNotification",  {
- Title = "Untitled Hub";
- Text = "Untitled Hub Has Been Activated";
+ Title = "Credits";
+ Text = "https://discord.gg/stFayQPHtN";
  Icon = "";
  Duration = 5;
- Button1 = "Ok!";
+ Button1 = "Copy!";
  Callback = NotificationBindable;
 })
 
